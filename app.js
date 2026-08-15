@@ -1,5 +1,17 @@
 //chapter 1 
 
+
+
+//var user = "Error! Please enter a valid password"
+//alert(user)
+
+//var welcome = "Welcome to JS land... \n Happy codding!"
+//alert(welcome)
+
+//var helo = "Hello... I can run JS through my web browser's console"
+//alert(helo)
+
+
 //chapter 2
 
 
